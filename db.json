@@ -1,9 +1,155 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+  "agents": [
+    {
+      "os": "windows",
+      "resources": [
+        "haha"
+      ],
+      "ip": "192.168.1.80",
+      "name": "bjstdmngbdr08.com",
+      "status": "building",
+      "location": "/var/lib/cruise-agent",
+      "type": "virtual",
+      "id": 1
+    },
+    {
+      "os": "windows",
+      "resources": [
+        "qweqweqwe"
+      ],
+      "ip": "192.168.1.80",
+      "name": "bjstdmngbdr08.com",
+      "status": "building",
+      "location": "/var/lib/cruise-agent",
+      "type": "virtual",
+      "id": 2
+    },
+    {
+      "os": "ubuntu",
+      "resources": [
+        "Safari",
+        "sadasd",
+        "1",
+        "2"
+      ],
+      "ip": "192.168.1.117",
+      "name": "bjstdmngbdr10.com",
+      "status": "building",
+      "location": "/var/lib/cruise-agent",
+      "type": "physical",
+      "id": 3
+    },
+    {
+      "name": "bjstdmngbdr11.com",
+      "os": "debian",
+      "status": "building",
+      "type": "virtual",
+      "ip": "192.168.1.102",
+      "location": "/var/lib/cruise-agent",
+      "resources": [
+        "Firefox",
+        "Ubuntu",
+        "asdas"
+      ],
+      "id": 4
+    },
+    {
+      "os": "suse",
+      "resources": [
+        "wqeqw",
+        "1223"
+      ],
+      "ip": "192.168.1.110",
+      "name": "bjstdmngbdr15.com",
+      "status": "idle",
+      "location": "/var/lib/cruise-agent",
+      "type": "physical",
+      "id": 5
+    },
+    {
+      "name": "bjstdmngbdr02.com",
+      "os": "centos",
+      "status": "idle",
+      "type": "virtual",
+      "ip": "192.168.1.103",
+      "location": "/var/lib/cruise-agent",
+      "resources": [
+        "Firefox",
+        "Safari",
+        "Ubuntu",
+        "Chrome"
+      ],
+      "id": 6
+    },
+    {
+      "name": "bjstdmngbdr04.com",
+      "os": "suse",
+      "status": "idle",
+      "type": "physical",
+      "ip": "192.168.1.113",
+      "location": "/var/lib/cruise-agent",
+      "resources": [
+        "Firefox",
+        "Safari"
+      ],
+      "id": 7,
+      "showDialog": false
+    },
+    {
+      "name": "bjstdmngbdr22.com",
+      "os": "centos",
+      "status": "idle",
+      "type": "virtual",
+      "ip": "192.168.1.111",
+      "location": "/var/lib/cruise-agent",
+      "resources": [
+        "Ubuntu",
+        "Chrome"
+      ],
+      "id": 8
+    },
+    {
+      "name": "bjstdmngbdr08.com",
+      "os": "windows",
+      "status": "building",
+      "type": "virtual",
+      "ip": "192.168.1.80",
+      "location": "/var/lib/cruise-agent",
+      "resources": [
+        "Firefox",
+        "Ubuntu",
+        "Chrome"
+      ],
+      "id": 10
+    },
+    {
+      "name": "bjstdmngbdr08.com",
+      "os": "windows",
+      "status": "building",
+      "type": "virtual",
+      "ip": "192.168.1.80",
+      "location": "/var/lib/cruise-agent",
+      "resources": [
+        "Firefox",
+        "Safari",
+        "Chrome"
+      ],
+      "id": 11
+    },
+    {
+      "name": "bjstdmngbdr08.com",
+      "os": "windows",
+      "status": "building",
+      "type": "virtual",
+      "ip": "192.168.1.80",
+      "location": "/var/lib/cruise-agent",
+      "resources": [
+        "Firefox",
+        "Safari",
+        "Ubuntu",
+        "Chrome"
+      ],
+      "id": 12
+    }
+  ]
 }
